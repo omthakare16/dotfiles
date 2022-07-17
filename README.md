@@ -8,9 +8,18 @@ These are the config files for my basic workspace .
 
 ## Screenshots
 
-Home screen and terminal        |  discord theme      |  spotify theme
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/omthakare16/dotfiles/main/Screenshots/2022-07-17_22-11.png?token=GHSAT0AAAAAABWLGJ32GCICKSYBQTXUGUF6YWUKEBQ)  |  ![](https://raw.githubusercontent.com/omthakare16/dotfiles/main/Screenshots/2022-07-14_06-15.png?token=GHSAT0AAAAAABWLGJ337GSOE4VWZQKDHYWWYWUKD5A)  |  ![](https://raw.githubusercontent.com/omthakare16/dotfiles/main/Screenshots/2022-07-09_20-19.png?token=GHSAT0AAAAAABWLGJ326QAJJSF5KSYU3YNYYWUKB2A)
+Home screen and terminal        
+:-------------------------:
+![](https://raw.githubusercontent.com/omthakare16/dotfiles/main/Screenshots/2022-07-17_22-11.png?token=GHSAT0AAAAAABWLGJ32GCICKSYBQTXUGUF6YWUKEBQ)  |
+
+Discord theme  
+:-------------------------:    
+![](https://raw.githubusercontent.com/omthakare16/dotfiles/main/Screenshots/2022-07-14_06-15.png?token=GHSAT0AAAAAABWLGJ337GSOE4VWZQKDHYWWYWUKD5A)  |  
+
+ 
+Spotify theme
+:-------------------------:
+![](https://raw.githubusercontent.com/omthakare16/dotfiles/main/Screenshots/2022-07-09_20-19.png?token=GHSAT0AAAAAABWLGJ326QAJJSF5KSYU3YNYYWUKB2A)
 
 ------------------------------------
  ## **Environment**
