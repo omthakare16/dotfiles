@@ -287,7 +287,7 @@ local globalKeys =
     {},
     'XF86MonBrightnessUp',
     function()
-      awful.spawn('xbacklight -inc 10')
+      awful.spawn('brightness + eDP ')
     end,
     {description = '+10%', group = 'hotkeys'}
   ),
@@ -295,7 +295,7 @@ local globalKeys =
     {},
     'XF86MonBrightnessDown',
     function()
-      awful.spawn('xbacklight -dec 10')
+      awful.spawn('brightness - eDP ')
     end,
     {description = '-10%', group = 'hotkeys'}
   ),

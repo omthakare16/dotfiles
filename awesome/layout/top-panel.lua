@@ -9,6 +9,8 @@ local mat_icon_button = require('widget.material.icon-button')
 local mat_icon = require('widget.material.icon')
 local dpi = require('beautiful').xresources.apply_dpi
 local icons = require('theme.icons')
+local batteryarc_widget = require("awesome-wm-widgets.batteryarc-widget.batteryarc")
+
 
 -- Titus - Horizontal Tray
 local systray = wibox.widget.systray()

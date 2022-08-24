@@ -15,12 +15,12 @@ return {
     screenshot = 'flameshot screen -p ~/Pictures',
     region_screenshot = 'flameshot gui -p ~/Pictures',
     delayed_screenshot = 'flameshot screen -p ~/Pictures -d 5000',
-    browser = 'brave-browser',
+    browser = 'google-chrome-stable --enable-features=WebUIDarkMode --force-dark-mode',
     editor = 'code', -- gui text editor
     social = 'flatpak run com.discordapp.Discord',
     game = rofi_command,
     files = 'nautilus',
-    music = 'spotify' 
+    music = 'flatpak run com.spotify.Client' 
   },
   -- List of apps to start once on start-up
   run_on_start_up = {
@@ -38,8 +38,10 @@ return {
     -- Add applications that need to be killed between reloads
     -- to avoid multipled instances, inside the awspawn script
     '~/.config/awesome/configuration/awspawn', -- Spawn "dirty" apps that can linger between sessions
-    'brightness-controller',
-    'libinput-gestures-setup start'
+    'libinput-gestures-setup start',
+    'dhclient -r',
+    'dhclient eno1'
+     
     
   }
 }
