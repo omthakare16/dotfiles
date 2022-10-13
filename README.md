@@ -39,6 +39,3 @@ Spotify theme
 - Spicetify (Spotify Theme and plugins ) : [Here](https://github.com/spicetify/spicetify-cli)
 - BetterDiscord (Discord Themes and plugins): [Here](https://betterdiscord.app/)
 - Wallpapers : [FrenzyExist](https://github.com/FrenzyExists/wallpapers)
-- Thanks to [Waishnav](https://github.com/Waishnav) and [Chris Titus](https://github.com/ChrisTitusTech) for guiding me through this setup.
-
-
